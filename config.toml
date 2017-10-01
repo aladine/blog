@@ -1,3 +1,40 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Dan Tran"
+baseURL = "https://petitclub.xyz"
+tags = ["portfolio", "web developer", "blog"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "aladine"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "I am a software developer"
+    author = "Dan"
+    description = "Software developer based in Singapore"
+    logoBig = "/images/avatar.jpg"
+    logoSmall = "/images/dan-logo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/avatar.jpg"
+    twitter = "trongdan_tran"
+    linkedin = "thewind2006"
+    github = "aladine"
+    email = "danlepetit@sent.com"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 2
