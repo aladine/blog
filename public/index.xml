@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Tran</title>
+    <link>https://petitclub.xyz/</link>
+    <description>Recent content on Dan Tran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 23:05:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://petitclub.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://petitclub.xyz/about/</link>
+      <pubDate>Sun, 01 Oct 2017 23:05:18 +0800</pubDate>
+      
+      <guid>https://petitclub.xyz/about/</guid>
+      <description>I am a software engineer living in Singapore.
+Since I graduate from National University of Singapore, I have worked for many companies.
+My working experience ranges from frontend to backend software development.
+Currently, I work in Grab and organise a meet up for Gophers in SG
+Tech blog: - Medium
+Travel blog: - Wordpress</description>
+    </item>
+    
+  </channel>
+</rss>
